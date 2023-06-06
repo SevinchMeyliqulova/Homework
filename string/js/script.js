@@ -2,7 +2,7 @@
            // string-metodlari
      //       function repeat(str, num) {
      //           let result = "";
-     //           for (let index = 0; index < num; index++) {
+     //           for (let i = 0; i < num; i++) {
      //               result = result + str;
      //           }
      //           return result;
@@ -12,7 +12,7 @@
        
      //   function slice(array, start, end) {
      //           let Array =[];
-     //           if(end===undefined || end > array.length)
+     //           if(end === undefined || end > array.length)
      //             end = array.length;
              
      //           for (let i = start; i < end; i++) {
