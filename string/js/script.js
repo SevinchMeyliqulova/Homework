@@ -57,7 +57,7 @@
 // arr[arr.length]=newItem
 // return arr
 // }
-// console.log(push(array, 'granat'))
+// console.log(push(array, 'gilos'))
 
 
 // let arr = ["banan", "olma", "gilos", "olcha", "anor", "uzum"]
@@ -79,4 +79,4 @@
 //     result[0] = newItem
 //     return result;
 // }
-// console.log(unshift(arr, 'sam'))
+// console.log(unshift(arr, 'olcha'))
