@@ -21,7 +21,7 @@
      //           return Array;
      //         }
              
-     //          console.log(slice(['m', 'a','d','i'],1,3));
+     //          console.log(slice(['a', 's','a','d'],1,3));
        
        
        
